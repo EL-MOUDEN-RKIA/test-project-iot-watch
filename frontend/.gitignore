@@ -1,0 +1,9 @@
+venv/
+iot-env/
+.env
+.env.local
+__pycache__/
+*.pyc
+backend/venv/
+backend/iot-env/
+node_modules/
